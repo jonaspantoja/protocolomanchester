@@ -7,4 +7,5 @@ Foi criado em 1994 pelo médico Kevin Mackway Jones e implementado pela primeira
 A implementação ocorreu por meio do paradigma da Programação Orientada a Objetos e as estruturas de dados utilizadas foram: Árvore, listas e dicionários.
 # Lógica 
 <img width="300" height="179" alt="image" src="https://github.com/user-attachments/assets/194086f1-4296-4507-af34-1e1c2b603fce" />
-
+# Para executar
+Carregue os arquivos no Visual Studio Code e execute o arquivo main.
